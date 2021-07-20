@@ -1,5 +1,5 @@
 <p align="center" >
- <img src="https://github.com/lucasnog181/Immobile-Now/blob/main/assets/Plugin%20icon%20-%201.png" width="90" style="max-width:100%;">
+ <img src="https://user-images.githubusercontent.com/66089849/126248948-89b13414-6c7c-4287-bc7b-0f2eab58cf5f.png" width="1200" style="max-width:100%;">
 </p>
 
 
